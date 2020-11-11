@@ -193,6 +193,10 @@ blockquote {
 
 .tm-hero-text-container-inner {
   margin-top: -90px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
 }
 
 .tm-hero-title {
@@ -241,10 +245,15 @@ blockquote {
   padding: 20px 50px;
 }
 
-picture-element.style {
+.picture-element {
   visibility: visible;
   animation-delay: 0.1s;
   animation-name: zoomIn;
+  max-height: 400px;
+  max-width: 400px;
+  display: block;
+  text-align: center; 
+  align-items: center;
 }
 
 .circle-image {
@@ -253,6 +262,21 @@ picture-element.style {
   border-radius: 50%;
   object-fit: cover;
   object-position: center;
+}
+
+.animated {
+  animation-duration: 1s;
+  animation-fill-mode: both;
+}
+
+.img {
+  vertical-align: middle;
+  align-content: center;
+  border-style: none;
+}
+
+*, ::after, ::before {
+  box-sizing: border-box;
 }
 
 /* Introduction */
