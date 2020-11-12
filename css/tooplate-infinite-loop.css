@@ -658,15 +658,33 @@ p {
   line-height: 1.9;
 }
 
+
+/* Skills info boxes */
+
+.tm-text-blue {
+  color: #369;
+} 
+
+.mb-75 {
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+}
+
+
 @media (min-width: 768px) {
   .tm-content-box {
-    /* padding-left: 0px; */
     position: relative;
     width: 100%;
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px;
   }
+
+  /* Skills info boxes */
+
 
   .navbar-expand-md .navbar-nav .nav-link {
     padding-right: 30px;
