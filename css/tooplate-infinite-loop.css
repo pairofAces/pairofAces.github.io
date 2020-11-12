@@ -253,7 +253,7 @@ blockquote {
   max-width: 400px;
   display: block;
   text-align: center; 
-  align-items: center;
+  align-content: center;
 }
 
 .circle-image {
