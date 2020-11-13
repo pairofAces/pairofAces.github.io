@@ -21,6 +21,13 @@ a {
   color: #38B;
 }
 
+.linx {
+  color: white!important;
+  /* align-content: center!important; */
+  display: block;
+  text-align: center;
+}
+
 a:hover,
 a:focus {
   text-decoration: none;
