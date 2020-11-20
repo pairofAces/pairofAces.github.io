@@ -51,8 +51,8 @@ blockquote {
 }
 
 .tm-section-pad-top {
-  padding-top: 80px;
-  padding-bottom: 40px;
+  /* padding-top: 80px; */
+  padding-bottom: 80px;
 }
 
 .tm-content-box {
@@ -571,7 +571,7 @@ figure.effect-honey:hover h2 i {
   min-height: 980px;
   position: relative;
   padding-bottom: 50px;
-  padding-top: 100px;
+  /* padding-top: 100px; */
 }
 
 .contact-item {
