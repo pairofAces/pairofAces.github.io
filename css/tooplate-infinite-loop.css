@@ -56,13 +56,11 @@ blockquote {
 }
 
 .tm-content-box {
-  /* padding-top: 20px;
-  padding-bottom: 40px; */
   position: relative;
-    width: 100%;
-    min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
+  width: 100%;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
 }
 
 .tm-text-primary {
@@ -701,38 +699,7 @@ h4{
 
 @media (min-width: 767px) {
   .tm-info-box { max-width: none; }
-
-  /* .tm-container-gallery {
-    max-width: 1290px;
-  }
-
-  .tm-container-contact {
-    max-width: 1063px;
-  } */
 }
-
-/* @media (max-width: 991px) {
-  .tm-intro-text-container {
-    padding-left: 15px;
-    padding-top: 30px;
-    max-width: 600px;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .tm-intro-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-  }
-
-  .tm-btn-submit {
-    margin-left: 0;
-    margin-top: 20px;
-  }
-} */
-
-
 
 @media (max-width: 767px) {
 
