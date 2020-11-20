@@ -234,10 +234,11 @@ blockquote {
   }
 }
 
-.tm-down-arrow-link {
+/* .tm-down-arrow-link {
   display: block;
   margin-top: 18%;
-}
+  object-position: bottom;
+} */
 
 .tm-down-arrow {
   	color: #FFF;
