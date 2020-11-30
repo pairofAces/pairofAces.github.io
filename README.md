@@ -6,29 +6,37 @@ Experienced in building web applications using Ruby, Ruby on Rails, Firebase, SQ
 </p>
 
 # Technical Projects
-<p>
-Bazaar
+<!-- <p>
+Emporium
 <a href='https://github.com/PC-coding/Bazaar'>Code</a>
 <a href='https://bazaar-596f2.web.app/'>Demo</a>
-</p>
+</p> -->
 
-![Bazaar](https://media.giphy.com/media/17BF82waniz4ndE1UW/giphy.gif)
-
-<p>
-COVID-Spy
-<a href='https://github.com/PC-coding/Covid-Spy'>Code</a>
-<!-- <a href=''>Demo</a> -->
-</p>
-
-![COVID](https://media.giphy.com/media/RWmouuhtk1OZFbFzc4/giphy.gif)
+<!-- ![Bazaar](https://media.giphy.com/media/17BF82waniz4ndE1UW/giphy.gif) -->
 
 <p>
-Pokepedia
-<a href='https://github.com/PC-coding/Pokepedia'>Code</a>
-<a href='PC-coding.github.io/Pokepedia'>Demo</a>
+COVID-Vault<br>
+<a href='https://github.com/pairofAces/covid-vault'>Code</a><br>
+<a href='https://pairofaces.github.io/covid-vault'>Live Demo</a>
 </p>
 
-![Pokepedia-demo](https://media.giphy.com/media/dVJJQ3NR3yk2EXPltR/giphy.gif) 
+![COVID](https://media.giphy.com/media/kMZA1QLNj9GmSers1t/giphy.gif)<br>
+
+<p>
+FlatFlix - Netlfix Clone<br>
+<a href='https://github.com/pairofAces/FlatFlix-Frontend'>Code</a><br>
+<a href='https://www.youtube.com/watch?v=aBWSuuDMg7E'>Video Demo</a>
+</p>
+
+![FlatFlix-demo](https://media.giphy.com/media/TUkEo0RZwyknmFcSyd/giphy.gif)<br>
+
+<p>
+Electric-Commerce<br>
+<a href='https://github.com/pairofAces/ecommerce-client'>Code</a><br>
+<a href='https://www.youtube.com/watch?v=aBWSuuDMg7E'>Live Demo</a>
+</p>
+
+![Electric-Commerce-demo](https://media.giphy.com/media/CFFYSstj9rbcPWeUYW/giphy.gif)<br>
 
 # Education
 <p>
