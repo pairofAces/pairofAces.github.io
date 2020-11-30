@@ -15,7 +15,10 @@ Emporium
 <!-- ![Bazaar](https://media.giphy.com/media/17BF82waniz4ndE1UW/giphy.gif) -->
 
 <p>
-COVID-Vault<br>
+<strong>
+    COVID-Vault
+</strong>
+<br>
 <a href='https://github.com/pairofAces/covid-vault'>Code</a><br>
 <a href='https://pairofaces.github.io/covid-vault'>Live Demo</a>
 </p>
@@ -23,7 +26,10 @@ COVID-Vault<br>
 ![COVID](https://media.giphy.com/media/kMZA1QLNj9GmSers1t/giphy.gif)<br>
 
 <p>
-FlatFlix - Netlfix Clone<br>
+<strong>
+    FlatFlix - Netlfix Clone
+</strong>
+<br>
 <a href='https://github.com/pairofAces/FlatFlix-Frontend'>Code</a><br>
 <a href='https://www.youtube.com/watch?v=aBWSuuDMg7E'>Video Demo</a>
 </p>
@@ -31,7 +37,10 @@ FlatFlix - Netlfix Clone<br>
 ![FlatFlix-demo](https://media.giphy.com/media/TUkEo0RZwyknmFcSyd/giphy.gif)<br>
 
 <p>
-Electric-Commerce<br>
+<strong>
+    Electric-Commerce
+</strong>
+<br>
 <a href='https://github.com/pairofAces/ecommerce-client'>Code</a><br>
 <a href='https://www.youtube.com/watch?v=aBWSuuDMg7E'>Live Demo</a>
 </p>
