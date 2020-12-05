@@ -9,14 +9,14 @@ Experienced in building web applications using Ruby, Ruby on Rails, Firebase, SQ
 <p>
 Emporium
 <a href='https://github.com/PC-coding/Bazaar'>Code</a>
-<a href='https://bazaar-596f2.web.app/'>Demo</a>
+<a href='https://clone-d0660.web.app/'>Live Demo</a>
 </p> -->
 
-<![Bazaar](https://media.giphy.com/media/17BF82waniz4ndE1UW/giphy.gif)
+![Emporium](https://media.giphy.com/media/X2eKQ9hrAzjRRijHNd/giphy.gif)
 
 <p>
 <strong>
-    COVID-Vault
+    Covid-Vault
 </strong>
 <br>
 <a href='https://github.com/pairofAces/covid-vault'>Code</a><br>
