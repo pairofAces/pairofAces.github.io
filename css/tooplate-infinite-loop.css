@@ -588,6 +588,7 @@ figure.effect-honey:hover h2 i {
 .item-link span {
   color: white;
   transition: all 0.3s ease;
+  white-space: pre;
 }
 
 .item-link:hover i,
