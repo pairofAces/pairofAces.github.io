@@ -155,9 +155,10 @@ blockquote {
 
 #infinite {
 	background-color: #222;
-  background-image: url(../img/infinite-loop-01.jpg);
+  /* background-image: url(../img/infinite-loop-01.jpg); */
+  background-image: url(../img/Rosenthal-Library.jpg);
   background-repeat: no-repeat;
-  height: 100vh;
+  height: 130vh;
   min-height: 375px;
   position: relative;
 }
