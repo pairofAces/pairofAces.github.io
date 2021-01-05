@@ -51,8 +51,9 @@ blockquote {
 }
 
 .tm-section-pad-top {
-  /* padding-top: 80px; */
+  padding-top: 80px;
   padding-bottom: 80px;
+  /* background-image: url(../img/QueensCollege.jpeg); */
 }
 
 .tm-content-box {
@@ -155,11 +156,12 @@ blockquote {
 
 #infinite {
 	background-color: #222;
-  background-image: url(../img/Rosenthal-Library.jpg);
+  background-image: url(../img/infinite-loop-01.jpg);
   background-repeat: no-repeat;
-  height: 130vh;
+  object-fit: cover;
+  height: 100vh;
   min-height: 375px;
-  position: relative;
+  margin-bottom: -100px;
 }
 
 @media (min-height: 600px) and (min-width: 1920px) {
@@ -565,12 +567,8 @@ figure.effect-honey:hover h2 i {
 #contact {
   color: white;
   background-color: #001828;
-  background-image: url(../img/infinite-loop-01.jpg);
-  /* background-image: url(../img/QC-skyline.jpg); */
-  background-position: center;
-  /* background-position: bottom; */
+  background-image: url(../img/infinite-loop-01.jpg);  background-position: center;
   background-repeat: no-repeat;
-  /* height: 100vh; */
   min-height: 980px;
   position: static;
   padding-bottom: 50px;
@@ -639,7 +637,6 @@ figure.effect-honey:hover h2 i {
 }
 
 .tm-footer {
-  position: absolute;
   bottom: 35px;
   left: 0;
   right: 0;
