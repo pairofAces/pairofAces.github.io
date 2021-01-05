@@ -155,7 +155,6 @@ blockquote {
 
 #infinite {
 	background-color: #222;
-  /* background-image: url(../img/infinite-loop-01.jpg); */
   background-image: url(../img/Rosenthal-Library.jpg);
   background-repeat: no-repeat;
   height: 130vh;
@@ -566,13 +565,16 @@ figure.effect-honey:hover h2 i {
 #contact {
   color: white;
   background-color: #001828;
-  background-image: url(../img/infinite-loop-03.jpg);
+  background-image: url(../img/infinite-loop-01.jpg);
+  /* background-image: url(../img/QC-skyline.jpg); */
   background-position: center;
+  /* background-position: bottom; */
   background-repeat: no-repeat;
+  /* height: 100vh; */
   min-height: 980px;
-  position: relative;
+  position: static;
   padding-bottom: 50px;
-  /* padding-top: 100px; */
+  padding-top: 100px;
 }
 
 .contact-item {
