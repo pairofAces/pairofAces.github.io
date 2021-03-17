@@ -195,7 +195,7 @@ blockquote {
 }
 
 .tm-hero-text-container-inner {
-  margin-top: -90px;
+  /* margin-top: -90px; */
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -592,8 +592,9 @@ figure.effect-honey:hover h2 i {
   background-repeat: no-repeat;
   min-height: 980px;
   position: static;
-  padding-bottom: 50px;
-  padding-top: 100px;
+  /* padding-bottom: 50px;
+  padding-top: 100px; */
+  margin-top: -10%;
 }
 
 .contact-item {
@@ -709,6 +710,7 @@ h4{
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px;
+    margin-top: -15%;
   }
 
   /* Skills info boxes */
