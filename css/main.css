@@ -405,7 +405,7 @@ blockquote {
 
 .tm-gallery-container {
   /* padding-top: 70px; */
-  padding-bottom: 120px;
+  /* padding-bottom: 120px; */
 }
 
 .tm-gallery-item {
@@ -711,7 +711,7 @@ h4{
     min-height: 1px;
     padding-right: 15px;
     padding-left: 15px;
-    margin-top: -15%;
+    margin-top: -20%;
   }
 
   /* Skills info boxes */
